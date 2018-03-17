@@ -1,0 +1,2 @@
+# wechatjump
+Learn some exercises！
